@@ -8,5 +8,5 @@ end
 
 move(board, position, player=X)
 
-board[position, player]
+board[position]
 
