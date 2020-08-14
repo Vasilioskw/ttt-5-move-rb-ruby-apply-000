@@ -6,7 +6,7 @@ def input_to_index(user_input)
 	
 end
 
-move(board, position, player=x)
+move(board, position, player="X")
 
 board[position, player]
 
