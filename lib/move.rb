@@ -10,5 +10,4 @@ move(board, position, player=x)
 
 board[position, player]
 
-end
 
