@@ -6,7 +6,7 @@ puts "Welcome to Tic Tac Toe!"
 
 user_input = gets.strip
 
-user_input.chomp
+input_to_index(user_input)
 
 board=[" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
