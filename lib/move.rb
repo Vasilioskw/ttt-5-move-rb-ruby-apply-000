@@ -8,10 +8,12 @@ end
 
 ##board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 #move(board, 2)
+#move(board, 8,"O")
+
       
 def move(board, position, player="X")
 
-board[position, player]
+board[position]=player
 
 end
 
