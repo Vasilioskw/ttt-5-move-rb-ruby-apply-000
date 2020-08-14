@@ -12,3 +12,5 @@ board=[" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 move(board, converted_input, player="X")
 
+display_board(board)
+
