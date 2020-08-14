@@ -8,5 +8,5 @@ user_input = get.strip
 
 user_input.chomp
 
-board=[" ", " ", " ", " ", " ", " ", " ", " ", " "]
+puts board=[" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
